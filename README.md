@@ -27,28 +27,28 @@
 |🎉 Django AlterCore | `Python` `private`|
 
 ⤥ 🌎 Web App ⤦
-| Name| Year| Stack|
+| Name| Year| Stack| Database|
 |---|---|---|
-|✨ Online Terminals Pentest Web App| `yr:19` | `PHPm,JS` |
-|✨ Live chat web app| `yr:20` | `PHPm,JSm,WS` |
-|✨ Social Media Website| `yr:20` | `Djangom,JS` |
-|✨ Teacher Attendance| `yr:20` | `PHPm,JS` |
-|✨ Files Sharing Web App| `yr:20` | `PHPm,JS` |
-|✨ Journal Management for School| `yr:20` | `PHPm,JS` |
-|✨ Web Accounting for Service Company| `yr:21` | `PHPm,JS` |
-|✨ Web Accounting for trading Company (goods)| `yr:21` | `PHPm,JS` |
-|✨ Quiz Web App| `yr:21` | `PHPm,JS` |
-|✨ Crypto Detection Web App| `yr:21` | `PHPm,JS` |
-|✨ Online Subject Matter Web App| `yr:21` | `PHPm,JS` |
-|✨ Public Online Learning and Quiz Web App| `yr:21` | `PHPm,JS` | 
-|✨ E-Learning for School (58 module)| `yr:21` | `Djangom,JSm,WSm,RTMPm,WebRTC` |
-|✨ GIIAS Seating System| `yr:22` | `Djangom,JSm,WS` |
-|✨ Online School/Presence System Merdeka| `yr:22` | `Djangom,JSm,WS` |
+|✨ Online Terminals Pentest Web App| `yr:19` | `PHPm` `JS` | `MariaDB` |
+|✨ Live chat web app| `yr:20` | `PHPm` `JSm` `WS` | `MariaDB` |
+|✨ Social Media Website| `yr:20` | `Djangom` `JS` | `MariaDB` |
+|✨ Teacher Attendance| `yr:20` | `PHPm` `JS` | `MariaDB` |
+|✨ Files Sharing Web App| `yr:20` | `PHPm` `JS` | `MariaDB` |
+|✨ Journal Management for School| `yr:20` | `PHPm` `JS` | `MariaDB` `MongoDB` |
+|✨ Web Accounting for Service Company| `yr:21` | `PHPm` `JS` | `MariaDB` |
+|✨ Web Accounting for trading Company (goods)| `yr:21` | `PHPm` `JS` | `MariaDB` |
+|✨ Quiz Web App| `yr:21` | `PHPm` `JS` | `MariaDB` |
+|✨ Crypto Detection Web App| `yr:21` | `PHPm` `JS` | `MongoDB` |
+|✨ Online Subject Matter Web App| `yr:21` | `PHPm` `JS` | `MariaDB` `MongoDB` |
+|✨ Public Online Learning and Quiz Web App| `yr:21` | `PHPm` `JS` |  `MariaDB` |
+|✨ E-Learning for School (58 module)| `yr:21` | `Djangom` `JSm` `WSm` `RTMPm` `WebRTC` | `MariaDB` `MongoDB` `Redis` |
+|✨ GIIAS Seating System| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
+|✨ Online School/Presence System Merdeka| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 
 ⤥ 💡 Mobile App ⤦
-| Name| Year| Platforms|
+| Name| Year| Platforms| Stack|
 |---|---|---|
-|🍩 Attendance Apps| `yr:20` |`android`|
-|🍩 Streaming Apps| `yr:21` |`android`|
-|🍩 Singing Apps| `yr:21` |`android`|
-|🍩 E-Learning Apps (12 module)| `yr:22` |`android` `on plan`|
+|🍩 Attendance Apps| `yr:20` |`android`| `React Native`|
+|🍩 Streaming Apps| `yr:21` |`android`| `React Native`|
+|🍩 Singing Apps| `yr:21` |`android`| `React Native`|
+|🍩 E-Learning Apps (12 module)| `yr:22` |`android` `on plan`| `React Native`|
