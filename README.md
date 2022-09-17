@@ -21,7 +21,6 @@
 |---|---|
 |🎉 PHP Framework | `PHPR` `on going` |
 |🎉 sQuery Framework| `Node` `on planning` |
-|🎉 sQuery Framework | `Node` `on planning` |
 |🎉 form Helper |  `JS` `bootstrap` `bulma` |
 |🎉 image control| `PHP` |
 |🎉 Django AlterCore | `Python` `private`|
