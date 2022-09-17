@@ -19,6 +19,7 @@
 * 🎉 sQuery Framework `Node` `on planning`
 * 🎉 form Helper `JS` `bootstrap` `bulma`
 * 🎉 image control `PHP`
+* 🎉 Django AlterCore `Python` `private`
 
 ⤥ 🌎 Web App ⤦
 * ✨ Online Terminals Pentest Web App `yr:19` `PHP|JS`
