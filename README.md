@@ -29,21 +29,21 @@
 ⤥ 🌎 Web App ⤦
 | Name| Year| Stack|
 |---|---|---|
-|✨ Online Terminals Pentest Web App| `yr:19` | `PHP|JS` |
-|✨ Live chat web app| `yr:20` | `PHP|JS|WS` |
-|✨ Social Media Website| `yr:20` | `Django|JS` |
-|✨ Teacher Attendance| `yr:20` | `PHP|JS` |
-|✨ Files Sharing Web App| `yr:20` | `PHP|JS` |
-|✨ Journal Management for School| `yr:20` | `PHP|JS` |
-|✨ Web Accounting for Service Company| `yr:21` | `PHP|JS` |
-|✨ Web Accounting for trading Company (goods)| `yr:21` | `PHP|JS` |
-|✨ Quiz Web App| `yr:21` | `PHP|JS` |
-|✨ Crypto Detection Web App| `yr:21` | `PHP|JS` |
-|✨ Online Subject Matter Web App| `yr:21` | `PHP|JS` |
-|✨ Public Online Learning and Quiz Web App| `yr:21` | `PHP|JS` | 
-|✨ E-Learning for School (58 module)| `yr:21` | `Django|JS|WS|RTMP|WebRTC` |
-|✨ GIIAS Seating System| `yr:22` | `Django|JS|WS` |
-|✨ Online School/Presence System Merdeka| `yr:22` | `Django|JS|WS` |
+|✨ Online Terminals Pentest Web App| `yr:19` | `PHPm,JS` |
+|✨ Live chat web app| `yr:20` | `PHPm,JSm,WS` |
+|✨ Social Media Website| `yr:20` | `Djangom,JS` |
+|✨ Teacher Attendance| `yr:20` | `PHPm,JS` |
+|✨ Files Sharing Web App| `yr:20` | `PHPm,JS` |
+|✨ Journal Management for School| `yr:20` | `PHPm,JS` |
+|✨ Web Accounting for Service Company| `yr:21` | `PHPm,JS` |
+|✨ Web Accounting for trading Company (goods)| `yr:21` | `PHPm,JS` |
+|✨ Quiz Web App| `yr:21` | `PHPm,JS` |
+|✨ Crypto Detection Web App| `yr:21` | `PHPm,JS` |
+|✨ Online Subject Matter Web App| `yr:21` | `PHPm,JS` |
+|✨ Public Online Learning and Quiz Web App| `yr:21` | `PHPm,JS` | 
+|✨ E-Learning for School (58 module)| `yr:21` | `Djangom,JSm,WSm,RTMPm,WebRTC` |
+|✨ GIIAS Seating System| `yr:22` | `Djangom,JSm,WS` |
+|✨ Online School/Presence System Merdeka| `yr:22` | `Djangom,JSm,WS` |
 
 ⤥ 💡 Mobile App ⤦
 | Name| Year| Platforms|
