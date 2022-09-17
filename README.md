@@ -17,11 +17,14 @@
 <br><br>
 
 ⤥ 🔥 Devs Tools ⤦
-* 🎉 PHP Framework `PHPR` `on going` 
-* 🎉 sQuery Framework `Node` `on planning`
-* 🎉 form Helper `JS` `bootstrap` `bulma`
-* 🎉 image control `PHP`
-* 🎉 Django AlterCore `Python` `private`
+|Name| Stack|
+|---|---|
+|🎉 PHP Framework | `PHPR` `on going` |
+|🎉 sQuery Framework| `Node` `on planning` |
+|🎉 sQuery Framework | `Node` `on planning` |
+|🎉 form Helper |  `JS` `bootstrap` `bulma` |
+|🎉 image control| `PHP` |
+|🎉 Django AlterCore | `Python` `private`|
 
 ⤥ 🌎 Web App ⤦
 * ✨ Online Terminals Pentest Web App `yr:19` `PHP|JS`
