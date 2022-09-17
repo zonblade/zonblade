@@ -34,6 +34,8 @@
 * ✨ Online Subject Matter Web App `yr:21` `PHP|JS`
 * ✨ Public Online Learning and Quiz Web App `yr:21` `PHP|JS`
 * ✨ E-Learning for School (58 module) `yr:21` `Django|JS|WS|RTMP|WebRTC`
+* ✨ GIIAS Seating System `yr:22` `Django|JS|WS`
+* ✨ Online School/Presence System Merdeka `yr:22` `Django|JS|WS`
 
 ⤥ 💡 Mobile App ⤦
 * 🍩 Attendance Apps `yr:20` `android`
