@@ -28,7 +28,7 @@
 
 ⤥ 🌎 Web App ⤦
 | Name| Year| Stack| Database|
-|---|---|---|
+|---|---|---|---|
 |✨ Online Terminals Pentest Web App| `yr:19` | `PHPm` `JS` | `MariaDB` |
 |✨ Live chat web app| `yr:20` | `PHPm` `JSm` `WS` | `MariaDB` |
 |✨ Social Media Website| `yr:20` | `Djangom` `JS` | `MariaDB` |
@@ -47,7 +47,7 @@
 
 ⤥ 💡 Mobile App ⤦
 | Name| Year| Platforms| Stack|
-|---|---|---|
+|---|---|---|---|
 |🍩 Attendance Apps| `yr:20` |`android`| `React Native`|
 |🍩 Streaming Apps| `yr:21` |`android`| `React Native`|
 |🍩 Singing Apps| `yr:21` |`android`| `React Native`|
