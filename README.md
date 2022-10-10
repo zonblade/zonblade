@@ -7,6 +7,12 @@
 ❓Contributor to School Project. \
 ☕Since almost 1 year vacuum, i'll continues all of my work.
 
+
+╭──  Other Sites. ──╮ <br>
+╰────────────╯
+- [CodeSignal Profile](https://app.codesignal.com/profile/zonblade)
+- [LinkedIn Profile](https://www.linkedin.com/in/zonblade/)
+
 ╭───  Projects. ───╮ <br>
 ╰────────────╯
 
