@@ -50,6 +50,7 @@
 |✨ E-Learning for School (58 module)| `yr:21` | `Djangom` `JSm` `WSm` `RTMPm` `WebRTC` | `MariaDB` `MongoDB` `Redis` |
 |✨ GIIAS Seating System| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 |✨ Online School/Presence System Merdeka| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
+|✨ Avter.co.id Cargo Management System | `yr:23` | `Laravel` `jQuery` | `MySQL` |
 
 ⤥ 💡 Mobile App ⤦
 | Name| Year| Platforms| Stack|
