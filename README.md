@@ -2,7 +2,7 @@
 ╰────────────╯
 
 ❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
-❓I'd love to code JS,Python, and PHP. \
+❓I'd love to code JS, Rust, Python, and PHP. \
 ❓Currently working fulltime on e-commerce based company as **Senior Backend Developer**. \
 ❓Now im moving into Rust. \
 ❓Contributor to some School Project. \
