@@ -32,6 +32,7 @@
 |🎉 form Helper |  `JS` `bootstrap` `bulma` |
 |🎉 image control| `PHP` |
 |🎉 Django AlterCore | `Python` `private`|
+|🎉 Rust temancore | `Rust` `private`|
 
 ⤥ 🌎 Web App ⤦
 | Name| Year| Stack| Database|
