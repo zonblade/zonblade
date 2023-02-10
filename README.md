@@ -3,8 +3,8 @@
 
 ❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
 ❓I'd love to code JS,Python, and PHP. \
-❓Currently working fulltime on e-commerce based company. \
-❓Contributor to School Project. \
+❓Currently working fulltime on e-commerce based company as **Senior Backend Developer**. \
+❓Contributor to some School Project. \
 ☕Since almost 1 year vacuum, i'll continues all of my work.
 
 
