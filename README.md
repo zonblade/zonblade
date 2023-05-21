@@ -1,21 +1,18 @@
 ╭── HelloFellow ──╮ <br>
-╰────────────╯
+╰────. .─────╯
 
 ❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
 ❓I'd love to code JS, Rust, Python, and PHP. \
-❓Currently working fulltime on e-commerce based company as **Senior Backend Developer**. \
-❓Now im moving into Rust. \
-❓Contributor to some School Project. \
-☕Since almost 1 year vacuum, i'll continues all of my work.
+❓Lead memo project. \
 
 
 ╭──  Other Sites. ──╮ <br>
-╰────────────╯
+╰──────────╯
 - [CodeSignal Profile](https://app.codesignal.com/profile/zonblade)
 - [LinkedIn Profile](https://www.linkedin.com/in/zonblade/)
 
 ╭───  Projects. ───╮ <br>
-╰────────────╯
+╰─────..─────╯
 
 ☔ I've done some project outside my github repo \
 ✌ the reason I can't post my project here \
@@ -53,6 +50,8 @@
 |✨ GIIAS Seating System| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 |✨ Online School/Presence System Merdeka| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 |✨ Avter.co.id Cargo Management System | `yr:23` | `Laravel` `jQuery` | `MySQL` |
+|✨ Procurement System | `yr:23` | `Next` `.NET` | `MySQL` |
+|✨ Ambalat POS & Booking System | `yr:23` | `Next` `Nest` | `MySQL` |
 
 ⤥ 💡 Mobile App ⤦
 | Name| Year| Platforms| Stack|
@@ -61,3 +60,4 @@
 |🍩 Streaming Apps| `yr:21` |`android`| `React Native`|
 |🍩 Singing Apps| `yr:21` |`android`| `React Native`|
 |🍩 E-Learning Apps (12 module)| `yr:22` |`android` `on plan`| `React Native`|
+|🍩 Ambalat POS & Booking Apps| `yr:23` |`android`| `React Native`|
