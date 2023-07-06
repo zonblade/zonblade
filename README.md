@@ -56,6 +56,7 @@
 |✨ Avter.co.id Cargo Management System | `yr:23` | `Laravel` `jQuery` | `MySQL` |
 |✨ Procurement System (migas) | `yr:23` | `Next` `.NET` | `MySQL` |
 |✨ Ambalat POS & Booking System | `yr:23` | `Next` `Nest` | `MongoDB` |
+|✨ GIIAS Seating System v2 | `yr:23` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 
 ⤥ 💡 Mobile App ⤦
 | Name| Year| Platforms| Stack|
