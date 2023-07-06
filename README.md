@@ -1,5 +1,5 @@
 ╭── HelloFellow ──╮ <br>
-╰────. .─────╯
+╰─────. .──────╯
 
 ❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
 ❓I'd love to code JS, Rust, Python, and PHP. \
@@ -7,12 +7,16 @@
 
 
 ╭──  Other Sites. ──╮ <br>
-╰──────────╯
+╰────────────╯
 - [CodeSignal Profile](https://app.codesignal.com/profile/zonblade)
 - [LinkedIn Profile](https://www.linkedin.com/in/zonblade/)
 
+╭──  Used Products. ──╮ <br>
+╰──────────────╯
+- [Mini Config](https://lib.rs/crates/mini-config)
+
 ╭───  Projects. ───╮ <br>
-╰─────..─────╯
+╰────────────╯
 
 ☔ I've done some project outside my github repo \
 ✌ the reason I can't post my project here \
