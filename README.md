@@ -54,7 +54,7 @@
 |✨ GIIAS Seating System| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 |✨ Online School/Presence System Merdeka| `yr:22` | `Djangom` `JSm` `WS` | `MongoDB` `Redis` |
 |✨ Avter.co.id Cargo Management System | `yr:23` | `Laravel` `jQuery` | `MySQL` |
-|✨ Procurement System | `yr:23` | `Next` `.NET` | `MySQL` |
+|✨ Procurement System (migas) | `yr:23` | `Next` `.NET` | `MySQL` |
 |✨ Ambalat POS & Booking System | `yr:23` | `Next` `Nest` | `MongoDB` |
 
 ⤥ 💡 Mobile App ⤦
