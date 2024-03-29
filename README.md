@@ -14,8 +14,8 @@
 ### Published Library
 
 my library which used by people world wide
-- [Mini Config](https://lib.rs/crates/mini-config)
-- [AES 256 GCM](https://lib.rs/crates/aes-256-gcm) _(popular)_
+- [Mini Config](https://crates.io/crates/mini-config)
+- [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
 
 ---
 
