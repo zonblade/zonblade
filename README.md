@@ -1,8 +1,7 @@
 ### HelloFellow
 
 ❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
-❓I'd love to code JS, Rust, Python, and PHP. \
-❓Lead memo project. \
+❓I'd love to code JS, Rust, Python, and PHP.
 
 ---
 
