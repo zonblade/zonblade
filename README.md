@@ -15,19 +15,12 @@
 
 ---
 
-### Other Sites.
-- [LinkedIn Profile](https://www.linkedin.com/in/zonblade/)
-
 ### Active Project
 - [Mini Gateway](https://github.com/zonblade/mini-gateway-rs)
+- [Cerberus](https://github.com/zonblade/cerberus)
 
 ### Published Library
 
 my library which used by people world wide
 - [Mini Config](https://crates.io/crates/mini-config)
 - [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
-
----
-
-### Projects
-☔ i decide to make it private, but you can see it on my readme commit history
