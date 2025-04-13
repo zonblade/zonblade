@@ -65,29 +65,6 @@ my library which used by people world wide
 ## Favourite Framework
 > I don't picky about framework.
 
-## Academic
-> My Academic record
-
-<table>
-  <tr>
-    <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Pusan_National_University_logo.svg/1200px-Pusan_National_University_logo.svg.png" width="120" title="IBM" alt="IBM"/>
-        PNU | PhD</br>
-        Enrolled Soon
-    </td>
-    <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Pusan_National_University_logo.svg/1200px-Pusan_National_University_logo.svg.png" width="120" title="IBM" alt="IBM"/>
-        PNU | Master's</br>
-        Ongoing
-    </td>
-    <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Logo-UMN-e1634700898276.png/1200px-Logo-UMN-e1634700898276.png" width="120" title="IBM" alt="IBM"/>
-        UMN | Bachelor</br>
-        Completed
-    </td>
-  </tr>
-</table>
-
 ## Certification
 > my certification, from ISC2, IBM, and OPSWAT
 
@@ -121,47 +98,4 @@ my library which used by people world wide
   </tr>
 </table>
 
-## Company & Ex Company
-> This is my listed company where i work for.
-
-<table>
-  <tr>
-    <td align="center" width="150">
-        <img src="https://kibarnusantaragroup.com/images/0be16b13b2cdfa1ffcd6b634ef8a6e5e.png" width="120" title="IBM" alt="IBM"/></br>
-        Part-Time</br>
-        KIBAR</br>
-        2024-(current)
-    </td>
-    <td align="center" width="150">
-        <img src="https://cofounderie.com/images/logotype.svg" width="120" title="IBM" alt="IBM"/></br></br></br>
-        Intern</br>
-        CoFoundery</br>
-        2025-(current)
-    </td>
-    <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BRI_2020.svg/2560px-BRI_2020.svg.png" width="92" title="IBM" alt="IBM"/></br></br></br>
-        Ex</br>
-        BRI</br>
-        2023-2024
-    </td>
-    <td align="center" width="150">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQEqJi6EyQtv4A/company-logo_200_200/company-logo_200_200/0/1691990754274/pt_entrepreneur_trust_digital_logo?e=2147483647&v=beta&t=2JALUF0Tz_iiWmpbdBHV80xUJDvTm5sw7K4RQm1tVHM" width="92" title="IBM" alt="IBM"/></br>
-        Ex</br>
-        Entrust Digital</br>
-        2023-2024
-    </td>
-    <td align="center" width="150">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGtngTmdm38oA/company-logo_200_200/company-logo_200_200/0/1631339638986?e=2147483647&v=beta&t=zmfScQgSTbK0XJlt51oDgWXHR0vey4gGmdyI7AxN28U" width="92" title="IBM" alt="IBM"/></br>
-        Ex</br>
-        OnTime</br>
-        2022-2023
-    </td>
-    <td align="center" width="150">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" width="92" title="IBM" alt="IBM"/></br></br></br>
-        Ex Intern</br>
-        TvRI</br>
-        2021-2021
-    </td>
-  </tr>
-</table>
 
