@@ -20,9 +20,6 @@
     <img src="https://static.wikia.nocookie.net/frieren/images/8/80/Frieren_anime_profile_3.png/revision/latest?cb=20230714215442" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
 </a>
 
-<p align="left">
-  <a>.</a>
-</p>
 
 ### Active Project
 - [Mini Gateway](https://github.com/zonblade/mini-gateway-rs)
@@ -33,3 +30,8 @@
 my library which used by people world wide
 - [Mini Config](https://crates.io/crates/mini-config)
 - [AES 256 GCM](https://crates.io/crates/aes-256-gcm) _(popular)_
+
+</br>
+</br>
+
+---
