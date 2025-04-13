@@ -1,11 +1,7 @@
-### HelloFellow
-
-❓I'm **Zonblade**, not my real tho name but I'm known for this name. \
-❓I'd love to code JS, Rust, Python, and PHP.
-
----
-
-<p>
+<p align="center">
+<img style="height:100%; width: 100%;" src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/header.gif"/></br>
+</p>
+<p align="center">
   <a href="https://www.credly.com/earner/earned/badge/969f0576-3ab8-4128-9af8-f8922cba2039">
     <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="120" title="CC" alt="CC"/>
   </a>
@@ -22,12 +18,8 @@
 ### Other Sites.
 - [LinkedIn Profile](https://www.linkedin.com/in/zonblade/)
 
----
-
 ### Active Project
 - [Mini Gateway](https://github.com/zonblade/mini-gateway-rs)
-
----
 
 ### Published Library
 
