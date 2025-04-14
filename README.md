@@ -47,6 +47,12 @@ my library which used by people world wide
         <img src="./img/php.png" width="92" title="IBM" alt="IBM"/>
         PHP
     </td>
+  </tr>
+    <tr>
+    <td align="center" width="92">
+        <img src="./img/kotlin.png" width="72" title="IBM" alt="IBM"/>
+        Kotlin
+    </td>
     <td align="center" width="92">
         <img src="./img/cpp.png" width="92" title="IBM" alt="IBM"/>
         C++
@@ -60,6 +66,12 @@ my library which used by people world wide
         Dart
     </td>
   </tr>
+    <tr>
+        <td>
+        <img src="./img/swift.webp" width="72" title="IBM" alt="IBM"/>
+        Swift
+        </td>
+    </tr>
 </table>
 
 ## Favourite Framework
@@ -90,6 +102,8 @@ my library which used by people world wide
         <img src="https://images.credly.com/size/680x680/images/678bcf1d-7baf-4322-9301-3f88d71ef113/blob" width="120" title="IBM" alt="IBM"/>
       </a>
     </td>
+  </tr>
+    <tr>
     <td align="center" width="120">
       <a href="https://www.credly.com/earner/earned/badge/a8925b8c-966f-4655-8c5a-9e50099f1e09">
         <img src="https://images.credly.com/size/680x680/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png" width="120" title="IBM" alt="IBM"/>
