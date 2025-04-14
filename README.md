@@ -67,7 +67,7 @@ my library which used by people world wide
     </td>
   </tr>
     <tr>
-        <td>
+        <td align="center" width="92">
         <img src="./img/swift.webp" width="72" title="IBM" alt="IBM"/>
         Swift
         </td>
