@@ -89,6 +89,11 @@ my library which used by people world wide
     </td>
     <td align="center" width="120">
       <a href="https://www.credly.com/earner/earned/badge/68a4141f-5e17-48d4-9b0e-319b9bb381a3">
+        <img src="./img/odsa.png" width="120" title="OPSWAT" alt="OPSWAT"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.credly.com/earner/earned/badge/68a4141f-5e17-48d4-9b0e-319b9bb381a3">
         <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="120" title="OPSWAT" alt="OPSWAT"/>
       </a>
     </td>
