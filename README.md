@@ -11,7 +11,7 @@
 
 ### Active Project
 - [Mini Gateway](https://github.com/zonblade/mini-gateway-rs)
-- [Cerberus](https://github.com/zonblade/cerberus)
+- [Aula Dev](https://github.com/aula-id)
 
 ### Published Library
 
